@@ -19,9 +19,9 @@
 
 | | Projet · Project | Français | English |
 |---|---|---|---|
-| 🎮 | **XDK Mod Menus** · [versions / releases](https://github.com/XDTEAMDev/XDK-TEAM-DEV-releases/releases/tag/xdk-mod-menus) | Homebrew PS5 : choisis et active tes mod menus Xbox 360 (émulateur PS5X360) depuis la console, sans PC. Il se met à jour tout seul. | PS5 homebrew: pick and turn on your Xbox 360 mod menus (PS5X360 emulator) from the console, no PC needed. Updates itself. |
+| 🎮 | **XDK Mod Menus** · [versions / releases](https://github.com/xavstream/XDK-TEAM-DEV-releases/releases/tag/xdk-mod-menus) | Homebrew PS5 : choisis et active tes mod menus Xbox 360 (émulateur PS5X360) depuis la console, sans PC. Il se met à jour tout seul. | PS5 homebrew: pick and turn on your Xbox 360 mod menus (PS5X360 emulator) from the console, no PC needed. Updates itself. |
 | 🔥 | **GTA IV Remastered** *(en cours · in progress)* | Mods, patchs et multijoueur pour GTA IV sur PS5 (émulateur PS5X360). | Mods, patches and multiplayer for GTA IV on PS5 (PS5X360 emulator). |
-| 💻 | **Logiciel XDK TEAM DEV** · [télécharger / download](https://github.com/XDTEAMDev/XDK-TEAM-DEV-releases/releases/latest) | Logiciel Windows : ce qui prend de la place sur ton disque, nettoyage, sécurité du PC. | Windows app: what fills your disk, cleanup, PC security. |
+| 💻 | **Logiciel XDK TEAM DEV** · [télécharger / download](https://github.com/xavstream/XDK-TEAM-DEV-releases/releases/latest) | Logiciel Windows : ce qui prend de la place sur ton disque, nettoyage, sécurité du PC. | Windows app: what fills your disk, cleanup, PC security. |
 | 💿 | **XDK ISO Studio** *(bientôt · soon)* | Éditeur d'ISO Xbox 360 : extraire, remplacer, installer un mod, directement sur la PS5. | Xbox 360 ISO editor: extract, replace, install a mod, right on the PS5. |
 | 🔫 | **XDK Menu GTA IV** *(bientôt · soon)* | Notre propre mod menu GTA IV, fait de zéro, pour le solo. | Our own GTA IV mod menu, made from scratch, for solo play. |
 
